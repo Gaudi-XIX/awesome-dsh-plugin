@@ -1,6 +1,0 @@
-url: https://github.com/Gaudi-XIX/dsh-pocket
-name: dsh-pocket
-category: remote
-description:
-  zh: 视手机端为桌面端必要但极度克制的最小随身工具，不增加不切实际的繁杂功能，以白名单透传与轻量原生微信直出守住核心交互闭环。
-  en: Essential yet strictly minimal companion for desktop DSH: rejects bloated desktop mirroring in favor of allowlist-only pass-through and lightweight native WeChat delivery.
