@@ -1,0 +1,6 @@
+url: https://github.com/Gaudi-XIX/dsh-agy-cli
+name: Gaudi-XIX/dsh-agy-cli
+category: model
+description:
+  zh: 把本机已登录的官方 Antigravity CLI 接入 DSH 作为模型路由：全部流量由官方二进制自行签名，工具执行、审批与沙箱 100% 留在 DSH；darkings/dsh-agy-provider 的接续维护版。
+  en: 'Runs the locally authenticated official Antigravity CLI as a DSH model route, all traffic signed by the official binary, with tool execution, approvals and sandbox kept entirely in DSH; maintained continuation of darkings/dsh-agy-provider.'
