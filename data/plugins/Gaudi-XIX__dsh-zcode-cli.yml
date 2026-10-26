@@ -1,5 +1,5 @@
-url: https://github.com/Gaudi-XIX/dsh-zcode-provider
-name: Gaudi-XIX/dsh-zcode-provider
+url: https://github.com/Gaudi-XIX/dsh-zcode-cli
+name: Gaudi-XIX/dsh-zcode-cli
 category: model
 description:
   zh: 把本机已安装的 ZCode CLI 作为 DSH 模型路由：付费一次性与免费 app-server 双通道，全部流量由官方二进制自行签名，不伪造请求、不抽取凭据，行为有契约文档与 171 例测试门禁背书。
